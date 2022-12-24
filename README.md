@@ -1,5 +1,10 @@
 <img width="949" alt="Capture" src="https://user-images.githubusercontent.com/39345855/209449805-91be2bb6-05fa-48b8-9963-d2ea40b39e25.PNG">
 
+
+## Video Guide
+* https://www.youtube.com/watch?v=0Quqj3DLC2w&feature=youtu.be
+
+
 # Steps 
 
 ## Step 1: 

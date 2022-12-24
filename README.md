@@ -25,13 +25,20 @@ create folder called bin inside that put your winutils
 ## Step 4:
 ```
 cd Spark
-Unzip the GZ file and paste into thsi directory 
+Unzip the GZ file and paste into this in the  directory 
 ```
+## step 5: set your enviroment variables 
 
-##Step 5:
+![image](https://user-images.githubusercontent.com/39345855/209449964-16a16aac-a64b-466e-a25c-d33b4eb79f1b.png)
+![image](https://user-images.githubusercontent.com/39345855/209450008-838be589-f5f2-4765-95df-9a54520f9314.png)
+![image](https://user-images.githubusercontent.com/39345855/209450037-7cb25aba-f2ac-46bd-b79e-6cfc4d3f6edd.png)
+![image](https://user-images.githubusercontent.com/39345855/209450053-a33e0712-19cd-40a5-a2be-34de6a994ac6.png)
+
+
+## Step 6:
 ```pip3 install pyspark 
 ```
 
-##step 6: Run Python code 
+##step 8: Run Python code 
 
 ### happy Learning 
